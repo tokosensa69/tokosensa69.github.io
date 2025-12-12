@@ -1,2 +1,5 @@
 # tokosensa69.github.io
-Portal akses resmi &amp; catatan game Sensa69 untuk pemain Indonesia.
+
+Halaman resmi GitHub Pages untuk Sensa69, portal pasaran game online untuk pemain Indonesia.
+
+👉 Website utama: [tokosensa69.com](https://tokosensa69.com/)
